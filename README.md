@@ -45,7 +45,7 @@
   <a href="https://github.com/expeuser" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://steamcommunity.com/id/YOUR_STEAM_ID" target="_blank">
+  <a href="https://steamcommunity.com/id/nohurt1337" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
 </p>
