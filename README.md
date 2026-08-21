@@ -54,20 +54,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=expeuser&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Ilya's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeuser&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=expeuser&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <div align="center">
 
-![](https://img.shields.io/github/followers/expeuser?label=Followers&style=flat-square&color=f97316&labelColor=1c1917)
-![](https://komarev.com/ghpvc/?username=expeuser&color=orange&style=flat-square&label=Profile+Views)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=expeuser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=expeuser&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=expeuser&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
