@@ -4,7 +4,7 @@
 
 # Hi 👋 My name is Ilya!
 
-**Python Developer | OSINT & Pentest Specialist**
+**Python Developer | OSINT | Pentest Specialist**
 
 <!-- Белая линия на чистом HTML -->
 <hr style="background-color: #ffffff; height: 2px; border: none;" />
