@@ -56,8 +56,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=expeuser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=expeuser&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=expeuser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=expeuser&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
 
