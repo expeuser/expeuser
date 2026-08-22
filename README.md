@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFpbWduejk1NG1rMzV1YXcyZnN5b2Y4OGc3YWpjc2kxdjFzYnZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrVla4Z2PYEkU/giphy.gif" width="100%" alt="Sakura Animation" />
+<img src="https://tenor.com/ru/view/adderall-elliot-alderson-mr-robot-elliot-gif-27371172" width="100%" alt="Sakura Animation" />
 
 # Hi 👋 My name is Ilya!
 
