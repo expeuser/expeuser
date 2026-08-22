@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tenor.com/ru/view/loopwalk-loop-walks-away-mr-robot-eliot-alderson-gif-13053435" width="100%" alt="Sakura Animation" />
+<img src="https://media.tenor.com/ru/view/loopwalk-loop-walks-away-mr-robot-eliot-alderson-gif-13053435" width="100%" alt="Sakura Animation" />
 
 # Hi 👋 My name is Ilya!
 
