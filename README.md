@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://tenor.com/ru/view/adderall-elliot-alderson-mr-robot-elliot-gif-27371172" width="100%" alt="Sakura Animation" />
+<div class="tenor-gif-embed" data-postid="27371172" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/adderall-elliot-alderson-mr-robot-elliot-gif-27371172">Adderall Elliot Alderson GIF</a>from <a href="https://tenor.com/search/adderall-gifs">Adderall GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Hi 👋 My name is Ilya!
 
